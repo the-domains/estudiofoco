@@ -1,0 +1,28 @@
+name: EstúdioFoco
+favicon: null
+layout_spectrum: 0.3787146711256355
+typography_spectrum: 0.2014458072371781
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9100704996380955
+  lightness: 0.5219044114928693
+  saturation: 0.04179062996990979
+  rhythmicContrast: 0.4111120034940541
+purpose: []
